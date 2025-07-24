@@ -1,4 +1,4 @@
-                                 [![MasterHead](https://img.pikbest.com/photo/20250105/programming-code-on-a-computer-monitor-developing-programming-and-coding-technologies_11343095.jpg!w700wp)
+ [![MasterHead](https://www.atlas.edu.tr/wp-content/uploads/2024/02/software-engineering.jpg)
 <h1 align="center">Hi 👋, I'm Beyza KARTAL</h1>
 <h3 align="center">A junior developer from Turkey, passionate about coding and exploring the world of artificial intelligence.</h3>
 
